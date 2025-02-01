@@ -4,7 +4,7 @@ build:
 loans:
   message: "Welcome to Banks loans related prod webhook APIs "
   contactDetails:
-    name: "Pelias Sudhir - Product Owner"
+    name: "Priya Narasimhan - Product Owner"
     email: "pelias@eazybank.com"
   onCallSupport:
     - (723) 656-8709
