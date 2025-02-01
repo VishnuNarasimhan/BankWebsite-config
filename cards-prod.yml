@@ -4,7 +4,7 @@ build:
 cards:
   message: "Welcome to Banks cards related prod webhook APIs "
   contactDetails:
-    name: "Sandra Harald - Product Owner"
+    name: "Nandhini Narasimhan - Product Owner"
     email: "sandra@eazybank.com"
   onCallSupport:
     - (617) 432-2356
