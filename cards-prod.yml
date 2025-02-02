@@ -2,9 +2,9 @@ build:
   version: "1.1"
 
 cards:
-  message: "Welcome to Banks cards related production webhook APIs "
+  message: "Welcome to Banks cards related production docker webhook APIs "
   contactDetails:
-    name: "MrZeus - Product Owner"
+    name: "MrsNandhini - Product Owner"
     email: "sandra@eazybank.com"
   onCallSupport:
     - (617) 432-2356
