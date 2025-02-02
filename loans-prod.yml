@@ -2,9 +2,9 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to Banks loans related production webhook APIs "
+  message: "Welcome to Banks loans related production docker webhook APIs "
   contactDetails:
-    name: "MsQuiet - Product Owner"
+    name: "MrsPriya - Product Owner"
     email: "pelias@eazybank.com"
   onCallSupport:
     - (723) 656-8709
